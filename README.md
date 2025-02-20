@@ -27,7 +27,7 @@ The dataset includes the following columns:
 1. **Create the Database**  
    First, create a database called `HOTEL_RESERVATION` using the following query:
    ```sql
-   CREATE DATABASE HOTEL_RESERVATION;
+   CREATE DATABASE HOTEL_RESERVATION
 2. **Import Data**
 Right-click on the database called HOTEL_RESERVATION and select Tasks > Import Data
 ![image](https://github.com/user-attachments/assets/5677c013-a79e-4038-8902-7f99f84bf9ac)
