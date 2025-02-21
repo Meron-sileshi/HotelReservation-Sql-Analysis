@@ -32,6 +32,7 @@ The dataset includes the following columns:
 Right-click on the database called HOTEL_RESERVATION and select Tasks > Import Data
 ![image](https://github.com/user-attachments/assets/5677c013-a79e-4038-8902-7f99f84bf9ac)
 ![image](https://github.com/user-attachments/assets/d6443ac1-efe9-45d5-81da-00b7edf9d0b9)
-![image](https://github.com/user-attachments/assets/b3f15b19-81c7-4a27-8c34-493a778b6150)
+![Copy](https://github.com/user-attachments/assets/c8026591-e896-4e20-8c0e-64e665b3939c)
+
 
 
